@@ -1,0 +1,6 @@
+Clue 1 result is 385 which is coverted to hexa decimal 181
+Clue 2  result is  4
+Clue 3  result is  5
+4 repeated 5 times -> 44444
+
+Final key is 181-44444
